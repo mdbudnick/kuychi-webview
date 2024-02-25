@@ -1,1 +1,1 @@
-# npx create-expo-app kuychi-webview
+# Simple Webview to the KuychiProject.com website
